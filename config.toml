@@ -1,12 +1,12 @@
-baseurl = "https://you.github.io/" 
+baseurl = "https://ezequielscott.github.io/" 
 builddrafts = false
 canonifyurls = true
 contentdir = "content"
 languageCode = "en-US"
 layoutdir = "layouts"
 publishdir = "public"
-author = "Arthur Dent"
-title = "Arthur Dent"
+author = "Ezequiel Scott"
+title = "Ezequiel Scott"
 pygmentsuseclasses = true
 disqusshortname = "cocoaexamplesite" # Comment out to disable Disqus.
 pluralizelisttitles = false
@@ -15,15 +15,38 @@ pluralizelisttitles = false
 fixed = ":title/"
 blog = "blog/:slug/"
 
+[[menu.main]]
+    name = "home"
+    pre = "<i class='fa fa-heart'></i>"
+    weight = -110
+    identifier = "home"
+    url = "/home/"
+[[menu.main]]
+    name = "about"
+    pre = "<i class='fa fa-road'></i>"
+    weight = -100
+    url = "/about/"
+[[menu.main]]
+    name = "publications"
+    pre = "<i class='fa fa-heart'></i>"
+    weight = -110
+    identifier = "publications"
+    url = "/publications/"
+[[menu.main]]
+    name = "blog"
+    pre = "<i class='fa fa-road'></i>"
+    weight = -100
+    url = "/blog/"
+
 [params]
-author = "Arthur Dent"
+author = "Ezequiel Scott"
 # gravatar = "" # do not use in the same time as Avatar
 # avatar = "" # path to image in static dir e.g img/avatar.png (do not use in the same time as Gravatar)
 cachebuster = true
 dateform = "Jan 2, 2006"
 dateformfull = "Mon Jan 2 2006 15:04:05 MST"
 description = "Don't panic"
-email = "you@example.space"
+email = "ezequielscott@gmail.com"
 faviconfile = "img/leaf.ico"
 gatracker = "XYZ"
 github = "//github.com/you"
@@ -31,6 +54,6 @@ highlightjs = true
 initials = "ad" # Displayed on single post page; DEPRECATED in v0.3.0.
 lang = "en"
 linkedin = "//linkedin.com/in/you"
-twitter = "//twitter.com/you"
+twitter = "//twitter.com/ezequielscott"
 
 extracssfiles = [ "/css/override.css" ] # In your `static/css`, add/remove files as necessary.
