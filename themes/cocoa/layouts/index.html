@@ -2,14 +2,12 @@
 <section class="main">
     <div class="container">
         <div class="content">
-            <div class="page-heading">Blog</div>
-            <ul>
-            {{ range .Data.Pages.ByPublishDate }}
-                {{ if eq .Section "blog" }}
-                    {{ partial "li.html" . }}
-                {{ end }}
+            <div class="page-heading">About</div>
+
+            {{ range where .Data.Pages "Title" "About" }}
+              {{ .Content }}
             {{ end }}
-            </ul>
+
         </div>
     </div>
 </section>

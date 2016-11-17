@@ -15,28 +15,26 @@ pluralizelisttitles = false
 fixed = ":title/"
 blog = "blog/:slug/"
 
+
 [[menu.main]]
-    name = "home"
-    pre = "<i class='fa fa-heart'></i>"
-    weight = -110
-    identifier = "home"
-    url = "/home/"
-[[menu.main]]
-    name = "about"
-    pre = "<i class='fa fa-road'></i>"
+    name = "blog"
     weight = -100
-    url = "/about/"
+    identifier = "blog"
+    url = "/blog/"
 [[menu.main]]
     name = "publications"
-    pre = "<i class='fa fa-heart'></i>"
     weight = -110
     identifier = "publications"
     url = "/publications/"
 [[menu.main]]
-    name = "blog"
-    pre = "<i class='fa fa-road'></i>"
-    weight = -100
-    url = "/blog/"
+    name = "teaching"
+    weight = -120
+    identifier = "teaching"
+    url = "/teaching/"
+[[menu.main]]
+    name = "about"
+    weight = -130
+    url = "/"
 
 [params]
 author = "Ezequiel Scott"
