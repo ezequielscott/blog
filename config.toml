@@ -29,10 +29,10 @@ blog = "blog/:slug/"
 [[menu.main]]
     name = "teaching"
     weight = -120
-    identifier = "teaching"
     url = "/teaching/"
 [[menu.main]]
     name = "about"
+    identifier = "Home"
     weight = -130
     url = "/"
 
@@ -46,12 +46,12 @@ dateformfull = "Mon Jan 2 2006 15:04:05 MST"
 description = "Don't panic"
 email = "ezequielscott@gmail.com"
 faviconfile = "img/leaf.ico"
-gatracker = "XYZ"
-github = "//github.com/you"
+gatracker = "UA-87603857-1"
+github = "//github.com/ezequielscott"
 highlightjs = true
-initials = "ad" # Displayed on single post page; DEPRECATED in v0.3.0.
+# initials = "ad" # Displayed on single post page; DEPRECATED in v0.3.0.
 lang = "en"
-linkedin = "//linkedin.com/in/you"
+linkedin = "//linkedin.com/in/ezequielscott"
 twitter = "//twitter.com/ezequielscott"
 
 extracssfiles = [ "/css/override.css" ] # In your `static/css`, add/remove files as necessary.

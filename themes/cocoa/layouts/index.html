@@ -2,10 +2,12 @@
 <section class="main">
     <div class="container">
         <div class="content">
-            <div class="page-heading">About</div>
+            <div class="page-heading">About Me</div>
 
-            {{ range where .Data.Pages "Title" "About" }}
+            {{ range where .Data.Pages "Title" "Home" }}
+            <div class="markdown">
               {{ .Content }}
+            </div>
             {{ end }}
 
         </div>
