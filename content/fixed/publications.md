@@ -7,7 +7,7 @@ date = "2016-11-16T22:03:58-03:00"
 
 ### PhD Thesis
 
-An Adaptive Approach for Training Software Developers
+An Adaptive Approach for Training Software Developers <a class="btn btn-primary btn-xs" href="files/thesis-scott.pdf" role="button">pdf</a>
 
 ### International Journals
 

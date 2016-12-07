@@ -61,6 +61,12 @@
             </a>
         {{ end }}
 
+        {{ if .Site.Params.scholar }}
+            <a href="{{ .Site.Params.scholar }}" target="_blank">
+                <i class="icon ion-university larger"></i>
+            </a>
+        {{ end }}
+
         {{ if .Site.Params.email }}
             <a href="mailto:{{ .Site.Params.email }}">
                 <i class="icon ion-ios-email larger"></i>

@@ -15,12 +15,16 @@ pluralizelisttitles = false
 fixed = ":title/"
 blog = "blog/:slug/"
 
-
 [[menu.main]]
-    name = "blog"
-    weight = -100
-    identifier = "blog"
-    url = "/blog/"
+    name = "CV"
+    weight = -90
+    identifier = "cv"
+    url = "/files/scott-cv-2016-en.pdf"
+#[[menu.main]]
+#    name = "blog"
+#    weight = -100
+#    identifier = "blog"
+#    url = "/blog/"
 [[menu.main]]
     name = "publications"
     weight = -110
@@ -47,11 +51,12 @@ description = "Don't panic"
 email = "ezequielscott@gmail.com"
 faviconfile = "img/leaf.ico"
 gatracker = "UA-87603857-1"
-github = "//github.com/ezequielscott"
+# github = "//github.com/ezequielscott"
 highlightjs = true
 # initials = "ad" # Displayed on single post page; DEPRECATED in v0.3.0.
 lang = "en"
 linkedin = "//linkedin.com/in/ezequielscott"
-twitter = "//twitter.com/ezequielscott"
+# twitter = "//twitter.com/ezequielscott"
+scholar = "//scholar.google.com.ar/citations?user=jYuH43AAAAAJ"
 
 extracssfiles = [ "/css/override.css" ] # In your `static/css`, add/remove files as necessary.
