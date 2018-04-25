@@ -36,7 +36,7 @@ blog = "blog/:slug/"
     url = "/teaching/"
 [[menu.main]]
     name = "about"
-    identifier = "Home"
+#    identifier = "Home"
     weight = -130
     url = "/"
 
@@ -58,5 +58,6 @@ lang = "en"
 linkedin = "//linkedin.com/in/ezequielscott"
 # twitter = "//twitter.com/ezequielscott"
 scholar = "//scholar.google.com.ar/citations?user=jYuH43AAAAAJ"
+researchgate = "//researchgate.net/profile/Ezequiel_Scott"
 
 extracssfiles = [ "/css/override.css" ] # In your `static/css`, add/remove files as necessary.

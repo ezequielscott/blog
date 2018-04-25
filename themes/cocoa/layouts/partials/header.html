@@ -30,6 +30,12 @@
 <section class="icons">
     <div class="container">
         <div class="content">
+		
+		{{ if .Site.Params.researchgate }}
+            <a href="{{ .Site.Params.researchgate }}" target="_blank">
+                <i class="ai ai-researchgate-square ai-2x"></i>
+            </a>
+        {{ end }}
 
         {{ if .Site.Params.github }}
             <a href="{{ .Site.Params.github }}" target="_blank">
@@ -45,7 +51,7 @@
 
         {{ if .Site.Params.linkedin }}
             <a href="{{ .Site.Params.linkedin }}" target="_blank">
-                <i class="icon ion-social-linkedin"></i>
+                <i class="fab fa-linkedin fa-2x"></i>
             </a>
         {{ end }}
 
@@ -63,19 +69,19 @@
 
         {{ if .Site.Params.scholar }}
             <a href="{{ .Site.Params.scholar }}" target="_blank">
-                <i class="icon ion-university larger"></i>
+				<i class="ai ai-google-scholar-square ai-2x"></i>
             </a>
         {{ end }}
 
         {{ if .Site.Params.email }}
             <a href="mailto:{{ .Site.Params.email }}">
-                <i class="icon ion-ios-email larger"></i>
+                <i class="fas fa-envelope fa-2x"></i>
             </a>
         {{ end }}
 
         {{ if .Site.RSSLink }}
             <a href="{{ .Site.RSSLink }}">
-                <i class="icon ion-social-rss larger"></i>
+                <i class="fas fa-rss fa-2x"></i>
             </a>
         {{ end }}
         </div>
