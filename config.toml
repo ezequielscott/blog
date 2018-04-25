@@ -5,6 +5,7 @@ contentdir = "content"
 languageCode = "en-US"
 layoutdir = "layouts"
 publishdir = "public"
+datadir = "files"
 author = "Ezequiel Scott"
 title = "Ezequiel Scott"
 pygmentsuseclasses = true
