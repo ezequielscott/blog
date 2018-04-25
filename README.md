@@ -23,3 +23,7 @@ hugo server -t <em>themename</em>
 Enjoy!
 
 [Hugo themes]: https://github.com/spf13/hugoThemes
+
+Files are stored in static/files
+For adding icons at the bottom part go to themes/cocoa/layouts/static
+The home page must be placed on content/fixed folder and title = "Home"
