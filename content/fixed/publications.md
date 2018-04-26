@@ -22,7 +22,7 @@ Ezequiel Scott, Guillermo Rodríguez, Álvaro Soria, Marcelo Campo: Are learning
 
 Ezequiel Scott and Dietmar Pfahl. 2018. Using Developers’ Features to Estimate Story Points. In ICSSP ’18: International Conference on the Software
 and Systems Process 2018 (ICSSP ’18), May 26–27, 2018, Gothenburg, Sweden. ACM, New York, NY, USA, 5 pages. https://doi.org/10.1145/3202710.3203160 
-<a href="/files/ICSSP2018-47-author.pdf"><span class="label label-primary">PDF</span></a> <span class="label label-success">NEW!</span>
+<a href="/files/ICSSP2018-47-author.pdf"><span class="label label-primary">PDF</span></a>
 
 #### 2017
 
