@@ -26,7 +26,7 @@ and Systems Process 2018 (ICSSP ’18), May 26–27, 2018, Gothenburg, Sweden. A
 
 #### 2017
 
-Scott, E., Pfahl, D., Hebig, R., Heldal, R., & Knauss, E. (2017, November). Initial Results of the HELENA Survey Conducted in Estonia with Comparison to Results from Sweden and Worldwide. In International Conference on Product-Focused Software Process Improvement (pp. 404-412). Springer, Cham.
+Scott, E., Pfahl, D., Hebig, R., Heldal, R., & Knauss, E. (2017, November). Initial Results of the HELENA Survey Conducted in Estonia with Comparison to Results from Sweden and Worldwide. In International Conference on Product-Focused Software Process Improvement (pp. 404-412). Springer, Cham. <a href="/files/scott2017-helena.pdf"><span class="label label-primary">PDF</span></a>
 
 Scott, E., & Pfahl, D. (2017, November). Exploring the Individual Project Progress of Scrum Software Developers. In International Conference on Product-Focused Software Process Improvement (pp. 341-348). Springer, Cham. <a href="/files/PROFES2017.pdf"><span class="label label-primary">PDF</span></a>
 
