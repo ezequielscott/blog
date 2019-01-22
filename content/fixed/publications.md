@@ -18,6 +18,10 @@ Ezequiel Scott, Guillermo Rodríguez, Álvaro Soria, Marcelo Campo: Are learning
 
 ## Conferences
 
+#### 2019
+
+Kilu E., Milani F., Scott E., Pfahl D. 2019. Agile Software Process Improvement by Learning from Financial and Fintech Companies: LHV Bank Case Study. In: Winkler D., Biffl S., Bergsmann J. (eds) Software Quality: The Complexity and Challenges of Software Engineering and Software Quality in the Cloud. SWQD 2019. Lecture Notes in Business Information Processing, vol 338. Springer, Cham <a href="/files/SWQD2019.pdf"><span class="label label-primary">PDF</span></a>
+
 #### 2018
 
 Ezequiel Scott and Dietmar Pfahl. 2018. Using Developers’ Features to Estimate Story Points. In ICSSP ’18: International Conference on the Software
