@@ -45,7 +45,7 @@ Ezequiel Scott, Guillermo Rodríguez, Álvaro Soria, Marcelo Campo: Are learning
 Guillermo Rodríguez, Ezequiel Scott, Álvaro Soria, Marcelo Campo: Razonamiento basado en casos para la materialización de arquitecturas orientadas a servicios. In XV Argentine Symposium on Artificial Intelligence (ASAI) - 43 JAIIO. Buenos Aires, Argentina; 09/2014.
 
 #### 2013
-Ezequiel Scott, Guillermo Rodríguez, Álvaro Soria, Marcelo Campo: El Rol del Estilo de Aprendizaje en la Enseñanza de Prácticas de Scrum: Un Enfoque Estadístico. In Argentine Symposium on Software Engineering (ASSE) - 42 JAIIO. Córdoba, Argentina; 09/2013. 
+Ezequiel Scott, Guillermo Rodríguez, Álvaro Soria, Marcelo Campo: El Rol del Estilo de Aprendizaje en la Enseñanza de Prácticas de Scrum: Un Enfoque Estadístico. In Argentine Symposium on Software Engineering (ASSE) - 42 JAIIO. Córdoba, Argentina; 09/2013. <a href="/files/asse2013.pdf"><span class="label label-primary">PDF</span></a>
 
 #### 2012
 Ezequiel Scott, Álvaro Soria: Localización de Fallas dirigida por Taxonomía en Aplicaciones Orientadas a Servicios. In Concurso de Trabajos Estudiantiles (EST) - 41 JAIIO. La Plata, Argentina; 08/2012.  
