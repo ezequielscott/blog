@@ -1,6 +1,6 @@
 +++
 title = "A Taxonomy-based Approach for Fault Localization in Service-Oriented Applications"
-date = "2016-01-01"
+year = "2016"
 authors = ["Ezequiel Scott", "Alvaro Soria", "Marcelo Campo"]
 publication_types = "Journal"
 publication = "IEEE Latin America Transactions, (14), 5, pp. 2348--2354"

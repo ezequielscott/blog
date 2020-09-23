@@ -1,6 +1,6 @@
 +++
 title = "Technical Debt and Waste in Non-functional Requirements Documentation: An Exploratory Study"
-date = "2019-01-01"
+year = "2019"
 authors = ["Gabriela Robiolo", "Ezequiel Scott", "Santiago Matalonga", "Michael Felderer"]
 publication_types = "Conference"
 publication = "International Conference on Product-Focused Software Process Improvement, pp. 220--235"

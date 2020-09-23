@@ -1,6 +1,6 @@
 +++
 title = "El rol del estilo de aprendizaje en la ense~nanza de practicas de scrum: Un enfoque estadistico"
-date = "2013-01-01"
+year = "2013"
 authors = ["Ezequiel Scott", "Guillermo Horacio Rodriguez", "Alvaro Soria", "Marcelo Campo"]
 publication_types = "Conference"
 publication = "XIV Simposio Argentino de Ingeniería de Software (ASSE)-JAIIO 42 (2013)"

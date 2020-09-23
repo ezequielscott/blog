@@ -1,6 +1,6 @@
 +++
 title = "Adaptive 3D Virtual Learning Environments - A Review of the Literature"
-date = "2017-01-01"
+year = "2017"
 authors = ["Ezequiel Scott", "Alvaro Soria", "Marcelo Campo"]
 publication_types = "Journal"
 publication = "IEEE Transactions on Learning Technologies, (10), 3, pp. 262--276"

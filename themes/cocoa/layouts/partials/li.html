@@ -5,7 +5,7 @@
             {{ $len := (len .Params.authors) }}
             <div><small>{{ range $index, $element := .Params.authors }}{{.}}{{if ne (add $index 1) $len}},{{end}} {{end}}</small></div>
             <div><small>{{ .Params.Publication }}</small></div>    
-            <span class="label label-primary">{{ .Date.Format .Site.Params.dateform }}</span>
+            <span class="label label-primary">{{ .Params.year }}</span>
             <span class="label label-info">{{ .Params.Publication_types}}</span> 
             
             {{ if (isset .Params "url_pdf") }}

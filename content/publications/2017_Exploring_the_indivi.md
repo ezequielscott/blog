@@ -1,6 +1,6 @@
 +++
 title = "Exploring the individual project progress of scrum software developers"
-date = "2017-01-01"
+year = "2017"
 authors = ["Ezequiel Scott", "Dietmar Pfahl"]
 publication_types = "Conference"
 publication = "International Conference on Product-Focused Software Process Improvement, pp. 341-348, Springer"

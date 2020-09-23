@@ -1,6 +1,6 @@
 +++
 title = "Experiences in software engineering education: Using scrum, agile coaching, and virtual reality"
-date = "2017-01-01"
+year = "2017"
 authors = ["Ezequiel Scott", "Guillermo Rodriguez", "Alvaro Soria", "Marcelo Campo"]
 publication_types = "Chapter"
 publication = "Overcoming Challenges in Software Engineering Education: Delivering Non-Technical Knowledge and Skills, pp. 250-276, IGI Global"

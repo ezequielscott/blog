@@ -1,6 +1,6 @@
 +++
 title = "Using developers' features to estimate story points"
-date = "2018-01-01"
+year = "2018"
 authors = ["Ezequiel Scott", "Dietmar Pfahl"]
 publication_types = "Conference"
 publication = "Proceedings of the 2018 International Conference on Software and System Process, pp. 106--110"

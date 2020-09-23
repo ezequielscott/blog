@@ -20,7 +20,7 @@ git push origin master
 
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
-# copy all the contents
+# clean and copy all the contents
 rm -R ezequielscott.github.io/*
 cp -R public/* ezequielscott.github.io/
 
@@ -41,4 +41,4 @@ git push origin master
 
 cd ..
 
-read -n1 -r -p "Press any key to continue..." key
+read -n1 -r -p "DONE! Press any key to continue..." key

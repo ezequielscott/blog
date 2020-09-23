@@ -7,8 +7,11 @@
     <div class="container">
         <div class="content">
             <ul>
-                {{ range where .Site.Pages.ByDate.Reverse ".Params.authors" "!=" nil  }}
-                    {{ partial "li.html" . }}
+                {{ $publications :=  where .Site.RegularPages "Section" "==" "publications" }}
+                {{ range $publications.GroupByParam "year" "desc" }}
+                    {{ range .Pages.ByTitle }}
+                        {{ partial "li.html" . }}
+                    {{ end }}
                 {{ end }}
             </ul>
         </div>
