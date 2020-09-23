@@ -1,0 +1,19 @@
+{{ partial "header.html" . }}
+
+{{ partial "publication_type_selector.html" . }}
+
+<section class="main">
+  <div class="container">
+      <div class="content">
+        
+        <ul>
+            {{ range .Data.Pages }}
+              {{ partial "li.html" . }}
+            {{ end }}
+        </ul>
+        
+      </div>
+  </div>
+</section>
+
+{{ partial "footer.html" . }}

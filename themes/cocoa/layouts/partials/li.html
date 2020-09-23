@@ -1,4 +1,17 @@
-<li class="post-item">
-    <span class="meta">{{ .Date.Format .Site.Params.dateform }}</span>
-    <a href="{{ .Permalink }}"><span>{{ .Title }}</span></a>
-</li>
+
+    <li class="content">
+        <div class="content">
+            <strong>{{ .Title }}</strong> 
+            {{ $len := (len .Params.authors) }}
+            <div><small>{{ range $index, $element := .Params.authors }}{{.}}{{if ne (add $index 1) $len}},{{end}} {{end}}</small></div>
+            <div><small>{{ .Params.Publication }}</small></div>    
+            <span class="label label-primary">{{ .Date.Format .Site.Params.dateform }}</span>
+            <span class="label label-info">{{ .Params.Publication_types}}</span> 
+            
+            {{ if (isset .Params "url_pdf") }}
+                <a href={{ .Params.Url_pdf }}><span class="label label-danger">PDF</span></a> 
+            {{ end }}
+        </div>
+        <hr>
+    </li>
+

@@ -2,33 +2,32 @@
 date = "2018-04-25T06:42:21-07:00"
 draft = false
 title = "Teaching"
-
 +++
 
-#### 2017/18 spring
-Lecturer at Faculty of Science and Technology, Institute of Computer Science, University of Tartu, Tartu, Estonia. Lecturer in the course LTAT.05.008 - “Software Analytics”.
+I currently teach:
 
-Teaching Assistant at Faculty of Science and Technology, Institute of Computer  Science, University of Tartu, Tartu, Estonia. Teaching Assistant in the course MTAT.03.159 - “Software Testing.
+- Agile Software Development (MTAT.03.295), MSc, University of Tartu
+- Software Engineering (LTAT.05.003), BSc, University of Tartu
+- Software Analytics (LTAT.05.008), MSc, University of Tartu
+- Software Testing (MTAT.03.159), BSc, University of Tartu
 
-#### 2017/18 fall
-Teaching Assistant at Faculty of Science and Technology, Institute of Computer  Science, University of Tartu, Tartu, Estonia. Teaching Assistant in the course LTAT.05.003 - “Software Engineering”.
+In the past, I taught:
 
-#### October 2016–April 2017
-Teaching Assistant at Faculty of Exact Sciences, UNICEN, Tandil. Graduate Teaching Assistant in the course “Documentation and Validation Techniques” at UNICEN.
+- Software Engineering, Systems Engineering, UNICEN
+- Software Engineering Workshop, Systems Engineering, UNICEN
+- Object Oriented Programming, Systems Engineering, UNICEN
+- Documentation and Validation Techniques, TUPAR, UNICEN
 
-#### April 2015–October 2016
-Teaching Assistant at Faculty of Exact Sciences, UNICEN, Tandil. Graduate Teaching Assistant in the course “Software Engineering” at UNICEN. Research activities involved.
 
-#### October 2012–April 2015
-Teaching Assistant at Faculty of Exact Sciences, UNICEN, Tandil. Graduate Teaching Assistant Ad-Honorem in the course “Software Engineering Workshop” at UNICEN. Research activities involved.
+## Supervised Students
 
-#### April 2014–October 2014
-Teaching Assistant at Faculty of Exact Sciences, UNICEN, Tandil. Graduate Teaching Assistant in the course “Software Engineering” at UNICEN. Research activities involved.
-
-#### April 2013–October 2013
-Teaching Assistant at Faculty of Exact Sciences, UNICEN, Tandil. Graduate Teaching Assistant in the course “Object Oriented Programming” at UNICEN.
-
-## Supervised Projects
-
-#### 2016
-Co-advisor of the final project entitled “A Virtual Environment for Teaching Scrum with LEGO” (undergraduate level).
+- Onuche Akor Idoko, Master's Degree, 2020. “Automating the Release Planning of Mobile Apps by Including App-Reviews”. University of Tartu, Faculty of Science and Technology, Institute of Computer Science.
+- Muhammad Bilal Shahid, Master's Degree, 2020. “Splitting User Stories Using Supervised Machine Learning”. University of Tartu, Faculty of Science and Technology, Institute of Computer Science.
+- Kadri Daljajev, Master's Degree, 2020, “The Role of an Agile Coach”, University of Tartu, Faculty of Science and Technology, Institute of Computer Science.
+- Kiryl Lashkevich, Master's Degree, 2020, “Improving Agile Processes with Customized Mission-based Practices. Case Study”, University of Tartu, Faculty of Science and Technology, Institute of Computer Science.
+- Tanel Tõemets, Master's Degree, 2020, “Analysing the Quality of User Stories in Open Source Projects”, University of Tartu, Faculty of Science and Technology, Institute of Computer Science.
+- Veronika Vlasova, Master's Degree, 2020, “An Analysis of the Impact of the Process Improvement at LHV Bank”, University of Tartu, Faculty of Science and Technology, Institute of Computer Science.
+- Tedo Gogoladze, Master's Degree, 2020, “The Importance of Personality Traits in Agile Software Development: A Case Study”, University of Tartu, Faculty of Science and Technology, Institute of Computer Science.
+- Khaled Nimr Charkie, Master's Degree, 2020, “Focus Factor and Hyper-Productivity of Agile Teams: A Study of 8 Open-Source Projects”, University of Tartu, Faculty of Science and Technology, Institute of Computer Science.
+- Abel Mesfin Cherinet, Master's Degree, 2019, “Recommending Issue Reports to Developers Using Machine Learning”, University of Tartu, Faculty of Science and Technology, Institute of Computer Science.
+- Rodrigo Pena and Marcos Suhit. System Engineer’s degree (equivalent to MSc Degree), 2016, “A Virtual Environment for Teaching Scrum with LEGO”. UNICEN, Faculty of Exact Science.

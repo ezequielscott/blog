@@ -16,11 +16,11 @@ pluralizelisttitles = false
 fixed = ":title/"
 blog = "blog/:slug/"
 
-[[menu.main]]
-    name = "CV"
-    weight = -90
-    identifier = "cv"
-    url = "/files/scott-cv-2016-en.pdf"
+# [[menu.main]]
+#    name = "CV"
+#    weight = -90
+#    identifier = "cv"
+#    url = "/files/scott-cv-2016-en.pdf"
 #[[menu.main]]
 #    name = "blog"
 #    weight = -100
@@ -37,16 +37,19 @@ blog = "blog/:slug/"
     url = "/teaching/"
 [[menu.main]]
     name = "about"
-#    identifier = "Home"
     weight = -130
     url = "/"
+
+[taxonomies]
+publication_type = "publication_types"
+
 
 [params]
 author = "Ezequiel Scott"
 # gravatar = "" # do not use in the same time as Avatar
 # avatar = "" # path to image in static dir e.g img/avatar.png (do not use in the same time as Gravatar)
 cachebuster = true
-dateform = "Jan 2, 2006"
+dateform = "2006"
 dateformfull = "Mon Jan 2 2006 15:04:05 MST"
 description = "Don't panic"
 email = "ezequielscott@gmail.com"

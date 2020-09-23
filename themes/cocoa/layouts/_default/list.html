@@ -1,15 +1,18 @@
+
 {{ partial "header.html" . }}
+
+{{ partial "publication_type_selector.html" . }}
+
 <section class="main">
     <div class="container">
         <div class="content">
-            <div class="page-heading">Blog</div>
             <ul>
-                {{ range .Data.Pages.ByPublishDate }}
-                {{ partial "li.html" . }}
+                {{ range where .Site.Pages.ByDate.Reverse ".Params.authors" "!=" nil  }}
+                    {{ partial "li.html" . }}
                 {{ end }}
             </ul>
         </div>
     </div>
 </section>
-{{ partial "footer.html" . }}
 
+{{ partial "footer.html" . }}
