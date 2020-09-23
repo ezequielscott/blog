@@ -21,6 +21,7 @@ git push origin master
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # copy all the contents
+rm -R ezequielscott.github.io/*
 cp -R public/* ezequielscott.github.io/
 
 cd ezequielscott.github.io/
