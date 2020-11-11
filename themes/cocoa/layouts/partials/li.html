@@ -9,8 +9,9 @@
             <span class="label label-info">{{ .Params.Publication_types}}</span> 
             
             {{ if (isset .Params "url_pdf") }}
-                <a href={{ .Params.Url_pdf }}><span class="label label-info">PDF</span></a> 
+                <a href={{ .Params.Url_pdf }}><span class="label label-success">PDF</span></a> 
             {{ end }}
+
             {{ if (isset .Params "arxiv") }}
                 <a href={{ .Params.arxiv }}><span class="label label-danger">arXiv</span></a> 
             {{ end }}
