@@ -22,9 +22,13 @@ echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # clean and copy all the contents
 rm -R ezequielscott.github.io/*
+mkdir ezequielscott.github.io
 cp -R public/* ezequielscott.github.io/
 
 cd ezequielscott.github.io/
+
+# this folder should be added to a remote
+# git remote add website https://github.com/ezequielscott/ezequielscott.github.io.git
 
 # Add changes to git.
 git add -A
@@ -37,7 +41,8 @@ fi
 git commit -m "$msg"
 
 # Push source and build deploy.
-git push origin master
+
+git push website master
 
 cd ..
 
