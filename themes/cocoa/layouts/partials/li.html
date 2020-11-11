@@ -11,6 +11,11 @@
             {{ if (isset .Params "url_pdf") }}
                 <a href={{ .Params.Url_pdf }}><span class="label label-danger">PDF</span></a> 
             {{ end }}
+            {{ if (isset .Params "arxiv") }}
+                <a href={{ .Params.arxiv }}><span class="label label-warning">PDF</span></a> 
+            {{ end }}
+
+
         </div>
         <hr>
     </li>
