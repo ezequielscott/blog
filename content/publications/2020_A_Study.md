@@ -4,5 +4,6 @@ year = "2020"
 authors = ["Kadri Daljajev", "Ezequiel Scott", "Fredrik Milani", "Dietmar Pfahl"]
 publication_types = "Conference"
 publication = "International Conference on Product-Focused Software Process Improvement (PROFES)"
+url_pdf = "/files/PROFES2020.pdf"
 +++
 

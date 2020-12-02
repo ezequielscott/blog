@@ -42,7 +42,7 @@ blog = "blog/:slug/"
 
 [taxonomies]
 publication_type = "publication_types"
-
+publication_year = "year"
 
 [params]
 author = "Ezequiel Scott"
