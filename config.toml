@@ -16,11 +16,11 @@ pluralizelisttitles = false
 fixed = ":title/"
 blog = "blog/:slug/"
 
-# [[menu.main]]
-#    name = "CV"
-#    weight = -90
-#    identifier = "cv"
-#    url = "/files/scott-cv-2016-en.pdf"
+ [[menu.main]]
+    name = "CV"
+    weight = -90
+    identifier = "cv"
+    url = "/files/SCOTT_CV2021.pdf"
 #[[menu.main]]
 #    name = "blog"
 #    weight = -100
