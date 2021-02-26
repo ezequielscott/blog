@@ -35,6 +35,7 @@ blog = "blog/:slug/"
 [[menu.main]]
     name = "teaching"
     weight = -120
+    identifier = "teaching"
     url = "/teaching/"
 [[menu.main]]
     name = "about"

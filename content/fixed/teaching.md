@@ -1,7 +1,7 @@
 +++
 date = "2018-04-25T06:42:21-07:00"
 draft = false
-title = "Teaching"
+title = "teaching"
 +++
 
 I currently teach:
