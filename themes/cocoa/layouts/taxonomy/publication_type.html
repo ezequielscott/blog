@@ -7,7 +7,7 @@
       <div class="content">
         <ul>
           {{ range .Data.Pages.GroupByParam "year" "desc" }}
-            {{ range .Pages.ByTitle }}
+            {{ range .Pages.ByPublishDate }}
               {{ partial "li.html" . }}
             {{ end }}
           {{ end }}

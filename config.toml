@@ -48,6 +48,8 @@ publication_year = "year"
 
 [params]
 author = "Ezequiel Scott"
+weight = 1
+publication_type = "Journal"
 # gravatar = "" # do not use in the same time as Avatar
 # avatar = "" # path to image in static dir e.g img/avatar.png (do not use in the same time as Gravatar)
 cachebuster = true
@@ -65,5 +67,4 @@ linkedin = "//linkedin.com/in/ezequielscott"
 # twitter = "//twitter.com/ezequielscott"
 scholar = "//scholar.google.com.ar/citations?user=jYuH43AAAAAJ"
 researchgate = "//researchgate.net/profile/Ezequiel_Scott"
-
 extracssfiles = [ "/css/override.css" ] # In your `static/css`, add/remove files as necessary.

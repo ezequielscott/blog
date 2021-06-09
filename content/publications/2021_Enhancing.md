@@ -1,0 +1,11 @@
++++
+title = "Enhancing agile software development in the banking sector—A comprehensive case study at LHV"
+year = "2021"
+publishdate = "2021-06"
+authors = ["Ezequiel Scott", "Fredrik Milani", "Erki Kilu", "Dietmar Pfahl"]
+publication_types = "Journal"
+publication = "Journal of Software: Evolution and Process"
+doi = "https://doi.org/10.1002/smr.2363"
+url_pdf = "/files/LHV2021.pdf"
+weight = 3
++++
