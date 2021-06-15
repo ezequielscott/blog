@@ -6,6 +6,6 @@ authors = ["Ezequiel Scott", "Fredrik Milani", "Erki Kilu", "Dietmar Pfahl"]
 publication_types = "Journal"
 publication = "Journal of Software: Evolution and Process"
 doi = "https://doi.org/10.1002/smr.2363"
-url_pdf = "/files/LHV2021.pdf"
+url_pdf = "https://onlinelibrary.wiley.com/share/author/8NHZJ6QEZVQEM2D7CIA4?target=10.1002/smr.2363"
 weight = 3
 +++
